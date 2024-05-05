@@ -9,19 +9,9 @@ Contents
 data: This directory contains the historical financial data for Apple and Amazon.
 code: This directory contains the Python scripts used for data preprocessing, analysis, and forecasting.
 results: This directory contains the output files generated from the analysis, including visualizations and forecasted values.
-README.md: This file provides an overview of the project and instructions for running the code.
-Getting Started
-To run the code and reproduce the analysis, follow these steps:
+![image](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/assets/115647297/792788f9-26b9-4531-bb4b-1c9f9400a2b4)
 
-Clone this repository to your local machine.
-Navigate to the code directory.
-Install the necessary dependencies by running pip install -r requirements.txt.
-Execute the Python scripts in the following order:
-data_preprocessing.py: Preprocesses the raw financial data.
-time_series_analysis.py: Performs time series analysis and forecasting.
-View the results in the results directory.
-Dependencies
-The project requires the following Python libraries:
+
 
 pandas
 numpy
