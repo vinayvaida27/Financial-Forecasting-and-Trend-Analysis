@@ -1,21 +1,42 @@
-# Financial-Forecasting-and-Trend-Analysis
-Utilizing time series analysis, this project investigates the financial performance of Apple and Amazon through forecasting techniques. By examining stock prices, trends, and economic indicators, it aims to provide insights for investors and stakeholders into future market movements and investment opportunities
+# Financial Forecasting and Trend Analysis
 
+## Overview
+This repository is dedicated to the financial forecasting and trend analysis of Apple Inc. and Amazon.com Inc. Utilizing advanced time series analysis techniques, this project aims to provide a detailed look into the financial performance of these tech giants, offering valuable insights into future market movements and investment strategies.
 
-Overview
-This repository contains a project focused on financial forecasting, specifically analyzing the performance of two prominent companies: Apple Inc. and Amazon.com Inc. The project utilizes time series analysis techniques to forecast future financial trends based on historical data.
+## Contents
 
-Contents
-data: This directory contains the historical financial data for Apple and Amazon.
-code: This directory contains the Python scripts used for data preprocessing, analysis, and forecasting.
-results: This directory contains the output files generated from the analysis, including visualizations and forecasted values.
-![image](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/assets/115647297/792788f9-26b9-4531-bb4b-1c9f9400a2b4)
+- **data**: Contains historical financial data for Apple and Amazon, essential for our analysis.
+- **code**: Includes Python scripts for data preprocessing, analysis, and the execution of forecasting models.
+- **results**: Hosts the output from our analyses, such as visualizations and forecasted financial trends.
 
+![Forecast Results](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/IMAGES/financial_forecast_output.png)
 
+## Installation
 
-pandas
-numpy
-matplotlib
-statsmodels
-scikit-learn
-These dependencies can be installed via pip using the provided requirements.txt file.
+To set up the project environment:
+
+1. Clone this repository to your local machine.
+2. Ensure Python is installed on your system.
+3. Install the required libraries using the command below:
+
+```bash
+pip install -r requirements.txt
+# Dependencies
+
+This project relies on several Python libraries to handle data manipulation, analysis, and visualization:
+
+- **pandas**: For data manipulation and analysis.
+- **numpy**: Supports large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- **matplotlib**: Used for creating static, interactive, and animated visualizations in Python.
+- **statsmodels**: Provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+- **scikit-learn**: Simple and efficient tools for predictive data analysis.
+
+# Usage
+
+To run the analysis scripts:
+
+1. Navigate to the `code` directory.
+2. Execute the script via your preferred Python environment:
+
+```bash
+python financial_analysis.py
