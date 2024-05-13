@@ -9,7 +9,7 @@ This repository is dedicated to the financial forecasting and trend analysis of 
 - **code**: Includes Python scripts for data preprocessing, analysis, and the execution of forecasting models.
 - **results**: Hosts the output from our analyses, such as visualizations and forecasted financial trends.
 
-![Forecast Results](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/IMAGES/financial_forecast_output.png)
+![image](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/assets/115647297/792788f9-26b9-4531-bb4b-1c9f9400a2b4)
 
 ## Installation
 
