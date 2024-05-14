@@ -21,6 +21,7 @@ To set up the project environment:
 
 ```bash
 pip install -r requirements.txt
+```
 # Dependencies
 
 This project relies on several Python libraries to handle data manipulation, analysis, and visualization:
